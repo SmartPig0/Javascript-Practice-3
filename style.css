@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(11, 221, 88);
+}
+
+input[type=text] {
+    width: 300px;
+    background: green;
+    color: #fff;
+}
+
+input[type=number] {
+    width: 100px;
+    background: green;
+    color: #fff;
+}
+
+.nam3 {
+    font-size: 20px;
+    color: red;
+}
+
+.res {
+    font-size: 5px;
+    color: blueviolet;
+}
